@@ -1,5 +1,7 @@
 # Turbidity of the Maro River Estuary and Merauke Coastal Waters 2013–2025 (P07)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24516384.svg)](https://doi.org/10.5281/zenodo.24516384)
+
 Code, data and results for the study *"Turbidity of the Maro River Estuary and Merauke Coastal Waters, Indonesia, 2013–2025 from Landsat 8/9 and Sentinel-2: Seasonal Patterns, Trends, Rainfall Links and k-Means Zoning"*.
 
 > **Ringkasan (ID):** Repositori ini berisi notebook, data, dan tabel hasil pemetaan kekeruhan bulanan muara Sungai Maro dan perairan pesisir Merauke 2013–2025 dari Landsat 8/9 dan Sentinel-2 (algoritma Dogliotti et al., 2015), tanpa pengukuran lapangan: pola musim, tren Mann-Kendall, hubungan dengan hujan DAS (CHIRPS), dan zonasi rezim k-means. Semua tabel dan gambar tersedia dalam versi Indonesia (_ID) dan Inggris (_EN).
