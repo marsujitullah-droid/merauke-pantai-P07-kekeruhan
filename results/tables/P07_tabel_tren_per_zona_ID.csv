@@ -1,0 +1,5 @@
+zona,n_tahun,tau_Kendall,nilai_p,Sen_FNU_per_thn,Sen_persen_per_thn
+0–5 km,12,0.0606,0.837,0.7599,0.4918
+5–15 km,12,0.0,1.0,-0.0458,-0.5424
+15–30 km,12,0.0303,0.9453,0.019,0.9406
+Plume (% piksel 0–30 km),12,-0.1515,0.5371,-0.6647,

@@ -1,0 +1,7 @@
+zona,musim,n_bulan,median_FNU,p25_FNU,p75_FNU,rasio_hujan_kemarau,nilai_p
+0–5 km,Hujan,22,63.0,16.675,204.7625,0.2658,0.0015
+0–5 km,Kemarau,33,237.0,150.7,544.4,,
+5–15 km,Hujan,26,7.25,4.75,10.2,0.5577,0.0036
+5–15 km,Kemarau,43,13.0,6.35,140.6,,
+15–30 km,Hujan,29,0.4,0.0,2.1,0.0584,0.0
+15–30 km,Kemarau,44,6.85,2.675,14.7,,

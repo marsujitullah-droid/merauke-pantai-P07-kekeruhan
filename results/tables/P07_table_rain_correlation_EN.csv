@@ -1,0 +1,7 @@
+variable,lag_months,n,Spearman_rho,p_value
+Kekeruhan 0–5 km,0,69,-0.3636,0.0021
+Kekeruhan 0–5 km,1,69,-0.2134,0.0783
+Kekeruhan 0–5 km,2,69,-0.0887,0.4684
+Plume (%),0,76,-0.4794,0.0
+Plume (%),1,76,-0.1435,0.2163
+Plume (%),2,76,0.0927,0.4258

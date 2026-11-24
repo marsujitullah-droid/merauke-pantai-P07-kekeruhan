@@ -1,0 +1,356 @@
+{
+  "muara": [
+    140.36297829950541,
+    -8.465422938082483
+  ],
+  "DAS_km2": 8100.209887292648,
+  "ambang_plume_FNU": 1.9654898251278063,
+  "piksel_air_zona": {
+    "0–5 km": 2082,
+    "5–15 km": 25877,
+    "15–30 km": 70609
+  },
+  "data_per_tahun": [
+    {
+      "tahun": 2013,
+      "citra_landsat": 7,
+      "bulan_landsat": 2,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2014,
+      "citra_landsat": 12,
+      "bulan_landsat": 5,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2015,
+      "citra_landsat": 15,
+      "bulan_landsat": 7,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2016,
+      "citra_landsat": 14,
+      "bulan_landsat": 7,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2017,
+      "citra_landsat": 9,
+      "bulan_landsat": 5,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2018,
+      "citra_landsat": 13,
+      "bulan_landsat": 5,
+      "citra_sentinel2": 0,
+      "bulan_sentinel2": 0
+    },
+    {
+      "tahun": 2019,
+      "citra_landsat": 10,
+      "bulan_landsat": 5,
+      "citra_sentinel2": 212,
+      "bulan_sentinel2": 12
+    },
+    {
+      "tahun": 2020,
+      "citra_landsat": 5,
+      "bulan_landsat": 2,
+      "citra_sentinel2": 190,
+      "bulan_sentinel2": 11
+    },
+    {
+      "tahun": 2021,
+      "citra_landsat": 11,
+      "bulan_landsat": 6,
+      "citra_sentinel2": 185,
+      "bulan_sentinel2": 12
+    },
+    {
+      "tahun": 2022,
+      "citra_landsat": 17,
+      "bulan_landsat": 7,
+      "citra_sentinel2": 178,
+      "bulan_sentinel2": 12
+    },
+    {
+      "tahun": 2023,
+      "citra_landsat": 23,
+      "bulan_landsat": 10,
+      "citra_sentinel2": 196,
+      "bulan_sentinel2": 11
+    },
+    {
+      "tahun": 2024,
+      "citra_landsat": 11,
+      "bulan_landsat": 5,
+      "citra_sentinel2": 180,
+      "bulan_sentinel2": 10
+    },
+    {
+      "tahun": 2025,
+      "citra_landsat": 7,
+      "bulan_landsat": 3,
+      "citra_sentinel2": 159,
+      "bulan_sentinel2": 10
+    }
+  ],
+  "kesesuaian_sensor": [
+    {
+      "besaran": "n pasangan piksel-bulan",
+      "nilai": 2625529.0
+    },
+    {
+      "besaran": "rho Spearman",
+      "nilai": 0.6607
+    },
+    {
+      "besaran": "median rasio S2/Landsat",
+      "nilai": 1.9704
+    },
+    {
+      "besaran": "RMSE log10",
+      "nilai": 0.6984
+    },
+    {
+      "besaran": "rho Spearman median zona 0–5 km",
+      "nilai": 0.6093
+    }
+  ],
+  "musim": [
+    {
+      "zona": "0–5 km",
+      "musim": "Hujan",
+      "n_bulan": 22,
+      "median_FNU": 63.0,
+      "p25_FNU": 16.675,
+      "p75_FNU": 204.7625,
+      "rasio_hujan_kemarau": 0.2658,
+      "nilai_p": 0.0015
+    },
+    {
+      "zona": "0–5 km",
+      "musim": "Kemarau",
+      "n_bulan": 33,
+      "median_FNU": 237.0,
+      "p25_FNU": 150.7,
+      "p75_FNU": 544.4,
+      "rasio_hujan_kemarau": NaN,
+      "nilai_p": NaN
+    },
+    {
+      "zona": "5–15 km",
+      "musim": "Hujan",
+      "n_bulan": 26,
+      "median_FNU": 7.25,
+      "p25_FNU": 4.75,
+      "p75_FNU": 10.2,
+      "rasio_hujan_kemarau": 0.5577,
+      "nilai_p": 0.0036
+    },
+    {
+      "zona": "5–15 km",
+      "musim": "Kemarau",
+      "n_bulan": 43,
+      "median_FNU": 13.0,
+      "p25_FNU": 6.35,
+      "p75_FNU": 140.6,
+      "rasio_hujan_kemarau": NaN,
+      "nilai_p": NaN
+    },
+    {
+      "zona": "15–30 km",
+      "musim": "Hujan",
+      "n_bulan": 29,
+      "median_FNU": 0.4,
+      "p25_FNU": 0.0,
+      "p75_FNU": 2.1,
+      "rasio_hujan_kemarau": 0.0584,
+      "nilai_p": 0.0
+    },
+    {
+      "zona": "15–30 km",
+      "musim": "Kemarau",
+      "n_bulan": 44,
+      "median_FNU": 6.85,
+      "p25_FNU": 2.675,
+      "p75_FNU": 14.7,
+      "rasio_hujan_kemarau": NaN,
+      "nilai_p": NaN
+    }
+  ],
+  "tren": [
+    {
+      "zona": "0–5 km",
+      "n_tahun": 12,
+      "tau_Kendall": 0.0606,
+      "nilai_p": 0.837,
+      "Sen_FNU_per_thn": 0.7599,
+      "Sen_persen_per_thn": 0.4918
+    },
+    {
+      "zona": "5–15 km",
+      "n_tahun": 12,
+      "tau_Kendall": 0.0,
+      "nilai_p": 1.0,
+      "Sen_FNU_per_thn": -0.0458,
+      "Sen_persen_per_thn": -0.5424
+    },
+    {
+      "zona": "15–30 km",
+      "n_tahun": 12,
+      "tau_Kendall": 0.0303,
+      "nilai_p": 0.9453,
+      "Sen_FNU_per_thn": 0.019,
+      "Sen_persen_per_thn": 0.9406
+    },
+    {
+      "zona": "Plume (% piksel 0–30 km)",
+      "n_tahun": 12,
+      "tau_Kendall": -0.1515,
+      "nilai_p": 0.5371,
+      "Sen_FNU_per_thn": -0.6647,
+      "Sen_persen_per_thn": NaN
+    }
+  ],
+  "tren_piksel": [
+    {
+      "besaran": "piksel dinilai",
+      "nilai": 121509.0
+    },
+    {
+      "besaran": "naik signifikan (%)",
+      "nilai": 1.174
+    },
+    {
+      "besaran": "turun signifikan (%)",
+      "nilai": 0.193
+    },
+    {
+      "besaran": "median Sen (FNU/thn)",
+      "nilai": 0.021
+    }
+  ],
+  "korelasi_hujan": [
+    {
+      "variabel": "Kekeruhan 0–5 km",
+      "jeda_bulan": 0,
+      "n": 69,
+      "rho_Spearman": -0.3636,
+      "nilai_p": 0.0021
+    },
+    {
+      "variabel": "Kekeruhan 0–5 km",
+      "jeda_bulan": 1,
+      "n": 69,
+      "rho_Spearman": -0.2134,
+      "nilai_p": 0.0783
+    },
+    {
+      "variabel": "Kekeruhan 0–5 km",
+      "jeda_bulan": 2,
+      "n": 69,
+      "rho_Spearman": -0.0887,
+      "nilai_p": 0.4684
+    },
+    {
+      "variabel": "Plume (%)",
+      "jeda_bulan": 0,
+      "n": 76,
+      "rho_Spearman": -0.4794,
+      "nilai_p": 0.0
+    },
+    {
+      "variabel": "Plume (%)",
+      "jeda_bulan": 1,
+      "n": 76,
+      "rho_Spearman": -0.1435,
+      "nilai_p": 0.2163
+    },
+    {
+      "variabel": "Plume (%)",
+      "jeda_bulan": 2,
+      "n": 76,
+      "rho_Spearman": 0.0927,
+      "nilai_p": 0.4258
+    }
+  ],
+  "RF": [
+    {
+      "skema": "Tinggal-satu-tahun",
+      "n": 69,
+      "R2": 0.1659,
+      "RMSE": 0.588
+    }
+  ],
+  "kepentingan_RF": [
+    {
+      "fitur": "hujan_jeda0",
+      "kepentingan": 0.0719
+    },
+    {
+      "fitur": "hujan_jeda1",
+      "kepentingan": 0.0588
+    },
+    {
+      "fitur": "hujan_jeda2",
+      "kepentingan": -0.0256
+    },
+    {
+      "fitur": "sin_bulan",
+      "kepentingan": 0.044
+    },
+    {
+      "fitur": "cos_bulan",
+      "kepentingan": 0.2573
+    }
+  ],
+  "silhouette": [
+    {
+      "k": 2,
+      "silhouette": 0.5081999897956848
+    },
+    {
+      "k": 3,
+      "silhouette": 0.43140000104904175
+    },
+    {
+      "k": 4,
+      "silhouette": 0.3248000144958496
+    },
+    {
+      "k": 5,
+      "silhouette": 0.2766999900341034
+    },
+    {
+      "k": 6,
+      "silhouette": 0.25130000710487366
+    }
+  ],
+  "rezim": [
+    {
+      "rezim": 1,
+      "luas_km2": 700.02,
+      "piksel_persen": 57.611,
+      "jarak_median_km": 22.107,
+      "median_tahunan_FNU": 1.395,
+      "rasio_hujan_kemarau_rezim": 0.061
+    },
+    {
+      "rezim": 2,
+      "luas_km2": 515.07,
+      "piksel_persen": 42.389,
+      "jarak_median_km": 18.547,
+      "median_tahunan_FNU": 26.626,
+      "rasio_hujan_kemarau_rezim": 0.152
+    }
+  ]
+}

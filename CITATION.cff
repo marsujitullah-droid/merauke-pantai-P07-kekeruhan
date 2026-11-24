@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Turbidity of the Maro River estuary and Merauke coastal waters 2013–2025 from Landsat 8/9 and Sentinel-2 (Coastal package P07): code and data"
+type: software
+authors:
+  - family-names: "Marsujitullah"
+    affiliation: "[INSTITUSI]"
+version: "1.0.0"
+license: MIT
+keywords:
+  - turbidity
+  - suspended sediment
+  - Landsat
+  - Sentinel-2
+  - Mann-Kendall
+  - k-means
+  - Google Earth Engine
+  - Merauke
